@@ -164,7 +164,7 @@ Delete the character by the ID given
 
     Examples:
     ```
-    http://localhost:3000/bennett
+    http://localhost:3000/delete/bennett
     ```
 
 - Body:  `This endpoint doesn't need use body`
