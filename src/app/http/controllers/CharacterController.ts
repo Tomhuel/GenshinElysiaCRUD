@@ -1,4 +1,3 @@
-import { BodyHandler } from "elysia";
 import CharacterRepository from "../../models/repositories/CharacterRepository";
 
 export default class CharacterController {
