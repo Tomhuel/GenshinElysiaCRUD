@@ -1,0 +1,65 @@
+[
+    {
+        "id": "hu-tao",
+        "name": "Hu Tao",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "gender": "Female"
+    },
+    {
+        "id": "keqing",
+        "name": "Keqing",
+        "element": "Electro",
+        "weapon": "Sword",
+        "gender": "Female"
+    },
+    {
+        "id": "xiao",
+        "name": "Xiao",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "gender": "Male"
+    },
+    {
+        "id": "albedo",
+        "name": "Albedo",
+        "element": "Geo",
+        "weapon": "Sword",
+        "gender": "Male"
+    },
+    {
+        "id": "kaedehara-kazuha",
+        "name": "Kazuha",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "gender": "Male"
+    },
+    {
+        "id": "yelan",
+        "name": "Yelan",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "gender": "Female"
+    },
+    {
+        "id": "kamisato-ayaka",
+        "name": "Kamisato Ayaka",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "gender": "Female"
+    },
+    {
+        "id": "alhaitam",
+        "name": "Alhaitam",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "gender": "Male"
+    },
+    {
+        "id": "zhongli",
+        "name": "Zhongli",
+        "element": "Geo",
+        "weapon": "Pito",
+        "gender": "Male"
+    }
+]
