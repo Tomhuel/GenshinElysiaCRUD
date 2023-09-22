@@ -25,5 +25,5 @@ and then:
 bun run dev
 ```
 
-the app starts at port 3000 by default, if you want to change the port change it on [index.ts](./src/index.ts).
+The app starts at port 3000 by default, if you want to change the port change it on [index.ts](./src/index.ts).
 
